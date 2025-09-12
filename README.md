@@ -7,13 +7,6 @@ Focused on AI/ML, data analytics, and 3D point cloud segmentation
 
 ---
 
-## 🔍 Current Focus & Research
-
-- **Thesis:** 3D point cloud semantic segmentation — designing models, data pipelines, and evaluation (My Thesis repo coming soon)  
-- Building **agentic AI systems** — integrating autonomous agent frameworks (Agentic-AI)  
-- Conversational AI — creating chatbots with persistent memory, context, and secure API usage (Chatbot repo)  
-- Strengthening foundations: Object-Oriented Programming, Data Analysis, Student Engagement Analysis
-
 ---
 
 ## 🛠️ Pinned Projects
