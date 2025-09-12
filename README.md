@@ -13,7 +13,7 @@ Here are some of my key work/repositories at a glance:
 
 | Project | Key Features |
 |---|---|
-| **Instance-semantic-segmentation** | Work in progress for my thesis on segmentation; I’ll share full details soon. |
+| **Instance-semantic-segmentation** | A two-stage pipeline for instance segmentation of tall buildings from aerial LiDAR point clouds: |
 | **Agentic-AI** | Building agentic frameworks in Python — planning, decision loops, independent tasks. |
 | **Chatbot** | LangChain-based interactive chatbot using GPT-4o-mini; memory, prompts, secure API management. |
 | **OOP** | Core object-oriented programming practice in Python — modules to demonstrate design. |
