@@ -34,8 +34,8 @@ Here are some of my key work/repositories at a glance:
 
 ## 🎓 Education
 
-- M.S. Media Arts & Computer Science, New Mexico Highlands University  
-- (Other prior studies and relevant coursework can go here)
+- M.Sc Media Arts & Computer Science, New Mexico Highlands University  
+- M.Sc Economics 
 
 ---
 
@@ -43,7 +43,7 @@ Here are some of my key work/repositories at a glance:
 
 - [LinkedIn](https://www.linkedin.com/in/meher-s-r46)  
 - [GitHub](https://github.com/MeherSultana)  
-- Email: *[you can add if you want this public]*
+
 
 ---
 
