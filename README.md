@@ -7,8 +7,6 @@ Focused on AI/ML, data analytics, and 3D point cloud segmentation
 
 ---
 
----
-
 ## 🛠️ Pinned Projects
 
 Here are some of my key work/repositories at a glance:
