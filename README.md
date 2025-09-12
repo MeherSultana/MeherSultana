@@ -25,7 +25,7 @@ Here are some of my key work/repositories at a glance:
 ## 🧠 Skills & Tools
 
 - **Languages & Fundamentals:** Python, OOP, Data Structures  
-- **AI/ML & Deep Learning:** Semantic segmentation, neural networks, model evaluation  
+- **AI/ML & Deep Learning:** Semantic segmentation, neural networks
 - **Libraries & Frameworks:** LangChain, OpenAI APIs, notebooks, data analysis stacks (Pandas, NumPy, etc.)  
 - **Data Analytics & Visualization:** Data cleaning, exploratory data analysis, report generation  
 - **Other:** Git, version control, research design, working with 3D data
