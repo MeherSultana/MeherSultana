@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Meher Sultana
 
-Graduate student in **Media Arts & Computer Science (MACS)** at New Mexico Highlands University  
+Graduate student in **Computer Science (MACS)** at New Mexico Highlands University  
 Focused on AI/ML, data analytics, and 3D point cloud segmentation
 
 ---
