@@ -21,10 +21,10 @@ Here are some of my key work/repositories at a glance:
 | **Student Engagement Analysis** | Analyzing attendance, assignment & participation data to measure and improve engagement. |
 
 | **PowerBI** 
-![Sales Report for 2019 rdl](https://github.com/user-attachments/assets/f38cc956-3f86-4ba5-906a-aeafe7690345)
 
 
 
+![Sales Report for 2019 pbip](https://github.com/user-attachments/assets/fb651095-36db-45ea-be81-22948e351544)
 
 
 
