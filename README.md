@@ -20,7 +20,7 @@ Here are some of my key work/repositories at a glance:
 | **Data Analysis Python** | Notebook(s) with Python data cleaning, visualization, statistics workflows. |
 | **Student Engagement Analysis** | Analyzing attendance, assignment & participation data to measure and improve engagement. |
 
-| **I like PowerBI** 
+**I like PowerBI** 
 <img width="1333" height="696" alt="Screenshot 2025-09-28 at 1 58 23 PM" src="https://github.com/user-attachments/assets/ad18ba13-95a3-4633-aa10-ded98018128d" />
 
 
