@@ -24,10 +24,13 @@ Here are some of my key work/repositories at a glance:
 <img width="1333" height="696" alt="Screenshot 2025-09-28 at 1 58 23 PM" src="https://github.com/user-attachments/assets/ad18ba13-95a3-4633-aa10-ded98018128d" />
 
 **Instance-semantic-segmentation** 
+Chicago Downtown as a Laz file downloaded from the USGS. b) Labeled data of Chicago downtown
+
 <img width="476" height="531" alt="Laz file" src="https://github.com/user-attachments/assets/c42c824f-6602-4b00-bfb8-1924d01d2df7" />
+
 <img width="704" height="549" alt="instance segmentation " src="https://github.com/user-attachments/assets/e80a8d51-573e-4342-9529-ed0f16db85fe" />
 
-Chicago Downtown as a Laz file downloaded from the USGS. b) Labeled data of Chicago downtown
+
 
 
 
