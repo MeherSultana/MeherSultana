@@ -25,7 +25,7 @@ Here are some of my key work/repositories at a glance:
 
 
 
-
+## Thesis
 
 
 <img width="476" height="531" alt="Laz file" src="https://github.com/user-attachments/assets/c42c824f-6602-4b00-bfb8-1924d01d2df7" />
