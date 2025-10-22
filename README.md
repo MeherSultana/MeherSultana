@@ -23,6 +23,10 @@ Here are some of my key work/repositories at a glance:
 **I like Power BI** 
 <img width="1333" height="696" alt="Screenshot 2025-09-28 at 1 58 23 PM" src="https://github.com/user-attachments/assets/ad18ba13-95a3-4633-aa10-ded98018128d" />
 
+
+
+
+
 **Instance-semantic-segmentation** 
 Chicago Downtown as a Laz file downloaded from the USGS. b) Labeled data of Chicago downtown
 
